@@ -1,0 +1,108 @@
+# Pe’er’s bakery — Generative Engine Optimization Map
+
+> A mobile/pop-up pastry stand that specializes in fully customizable baked goods, offering a wide selection of flavors, creams, sauces, and toppings tailored to each customer's preference. The business caters to all types of events, bringing a warm and indulgent pastry experience directly to the venue. In addition to the event stand, customers can also order individual desserts separately, making it a flexible and versatile sweet treat service.
+
+---
+
+## Pages
+
+### בית
+https://pe-er-s-bakery-387fc429.zappy5.app
+מחפשים דוכן קינוחים נייד שמגיע עד אליכם? Pe&#39;er&#39;s bakery מציעה חוויית קינוח מושחתת עם מגוון טעמים, קרמים וציפויים לבחירה. מתאים לכל אירוע. בואו להתפנק!
+
+### אירועים והתאמה אישית
+https://pe-er-s-bakery-387fc429.zappy5.app/events-customization
+אירוע מושלם מתחיל בקינוח המושלם. Pe&#39;er&#39;s bakery מביאה אליכם דוכן קינוחים ייחודי עם התאמה אישית מלאה – טעמים, קרמים וציפויים לפי בחירתכם. צרו חוויה מתוקה ובלתי נשכחת לאורחים שלכם עוד היום!
+
+### אודות
+https://pe-er-s-bakery-387fc429.zappy5.app/about
+ב-Pe&#39;er&#39;s bakery אנחנו חיים ונושמים קינוחים. מגש הגשה נייד ועד אירועים גדולים, אנחנו מתמחים ביצירת קינוחים מותאמים אישית עם חומרי גלם איכותיים וטעם של עוד. גלו את הסיפור שלנו שמתוק כמו העוגיות שלנו.
+
+### צור קשר
+https://pe-er-s-bakery-387fc429.zappy5.app/contact
+מוכנים להזמין את דוכן הקינוחים הנייד שלנו או סתם להתפנק בקופסת קינוחים אישית? Pe&#39;er&#39;s bakery במרחק הודעה. צרו קשר עוד היום לתכנון אירוע מתוק במיוחד או להזמנה אישית שתכבוש אתכם בטעם.
+
+### Products
+https://pe-er-s-bakery-387fc429.zappy5.app/products
+המוצרים שלנו - Pe’er’s bakery
+
+### Cart
+https://pe-er-s-bakery-387fc429.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://pe-er-s-bakery-387fc429.zappy5.app/checkout
+תשלום
+
+### Login
+https://pe-er-s-bakery-387fc429.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://pe-er-s-bakery-387fc429.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://pe-er-s-bakery-387fc429.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://pe-er-s-bakery-387fc429.zappy5.app/product/:slug
+פרטי המוצר - Pe’er’s bakery
+
+### Category
+https://pe-er-s-bakery-387fc429.zappy5.app/category/:slug
+מוצרים - Pe’er’s bakery
+
+### תודה רבה | ההודעה התקבלה
+https://pe-er-s-bakery-387fc429.zappy5.app/thank-you
+תודה שפנית אלינו. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם עם פרטים נוספים על שירותי קייטרינג מאפיית הפינה שלנו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://pe-er-s-bakery-387fc429.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pe-er-s-bakery-387fc429.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pe-er-s-bakery-387fc429.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pe’er’s bakery
+A mobile/pop-up pastry stand that specializes in fully customizable baked goods, offering a wide selection of flavors, creams, sauces, and toppings tailored to each customer's preference. The business caters to all types of events, bringing a warm and indulgent pastry experience directly to the venue. In addition to the event stand, customers can also order individual desserts separately, making it a flexible and versatile sweet treat service.
+
+## Target Audience
+- מארגני אירועים מכל הסוגים
+- מארגני אירועים
+- מארגני אירועי חברה
+- זוגות מתחתנים
+- מארגני מסיבות יום הולדת
+- מארגני פסטיבלים
+- מארגנים
+
+## Industry
+Bakery & Catering
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://pe-er-s-bakery-387fc429.zappy5.app/sitemap.xml
+- Robots: https://pe-er-s-bakery-387fc429.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pe-er-s-bakery-387fc429.zappy5.app/llms-full.txt
+- Products (JSON): https://pe-er-s-bakery-387fc429.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pe-er-s-bakery-387fc429.zappy5.app/product-feed.xml
