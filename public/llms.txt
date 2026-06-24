@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://pe-er-s-bakery-387fc429.zappy5.app
+https://example.com
 מחפשים דוכן קינוחים נייד שמגיע עד אליכם? Pe&#39;er&#39;s bakery מציעה חוויית קינוח מושחתת עם מגוון טעמים, קרמים וציפויים לבחירה. מתאים לכל אירוע. בואו להתפנק!
 
 ### אירועים והתאמה אישית
-https://pe-er-s-bakery-387fc429.zappy5.app/events-customization
+https://example.com/events-customization
 אירוע מושלם מתחיל בקינוח המושלם. Pe&#39;er&#39;s bakery מביאה אליכם דוכן קינוחים ייחודי עם התאמה אישית מלאה – טעמים, קרמים וציפויים לפי בחירתכם. צרו חוויה מתוקה ובלתי נשכחת לאורחים שלכם עוד היום!
 
 ### אודות
-https://pe-er-s-bakery-387fc429.zappy5.app/about
+https://example.com/about
 ב-Pe&#39;er&#39;s bakery אנחנו חיים ונושמים קינוחים. מגש הגשה נייד ועד אירועים גדולים, אנחנו מתמחים ביצירת קינוחים מותאמים אישית עם חומרי גלם איכותיים וטעם של עוד. גלו את הסיפור שלנו שמתוק כמו העוגיות שלנו.
 
 ### צור קשר
-https://pe-er-s-bakery-387fc429.zappy5.app/contact
+https://example.com/contact
 מוכנים להזמין את דוכן הקינוחים הנייד שלנו או סתם להתפנק בקופסת קינוחים אישית? Pe&#39;er&#39;s bakery במרחק הודעה. צרו קשר עוד היום לתכנון אירוע מתוק במיוחד או להזמנה אישית שתכבוש אתכם בטעם.
 
 ### Products
-https://pe-er-s-bakery-387fc429.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Pe’er’s bakery
 
 ### Cart
-https://pe-er-s-bakery-387fc429.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://pe-er-s-bakery-387fc429.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://pe-er-s-bakery-387fc429.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://pe-er-s-bakery-387fc429.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://pe-er-s-bakery-387fc429.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://pe-er-s-bakery-387fc429.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Pe’er’s bakery
 
 ### Category
-https://pe-er-s-bakery-387fc429.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Pe’er’s bakery
 
 ### תודה רבה | ההודעה התקבלה
-https://pe-er-s-bakery-387fc429.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. פנייתך התקבלה בהצלחה ונחזור אליך בהקדם עם פרטים נוספים על שירותי קייטרינג מאפיית הפינה שלנו.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://pe-er-s-bakery-387fc429.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://pe-er-s-bakery-387fc429.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://pe-er-s-bakery-387fc429.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -101,8 +101,8 @@ Bakery & Catering
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://pe-er-s-bakery-387fc429.zappy5.app/sitemap.xml
-- Robots: https://pe-er-s-bakery-387fc429.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://pe-er-s-bakery-387fc429.zappy5.app/llms-full.txt
-- Products (JSON): https://pe-er-s-bakery-387fc429.zappy5.app/products.json
-- Products (Google Merchant RSS): https://pe-er-s-bakery-387fc429.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
